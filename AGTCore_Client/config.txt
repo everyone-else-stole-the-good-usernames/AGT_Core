@@ -1,0 +1,6 @@
+seed 3
+block dirt
+block grass
+block wood
+block stone
+block leaves

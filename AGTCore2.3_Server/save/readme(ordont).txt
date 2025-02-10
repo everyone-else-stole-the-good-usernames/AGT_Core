@@ -1,0 +1,1 @@
+you can delete the save files if you want to make a new save, AGTCore replaces them if they dont exist
